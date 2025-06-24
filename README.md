@@ -1,2 +1,2 @@
-bjfhbbbdbfhggytvtftfdh।nb# Corona Tracker 
+# Corona Tracker 
 ###### Project is under development..
